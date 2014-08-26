@@ -1,8 +1,10 @@
-+ SaloraFix
+# SaloraFix
 
 Project to fix a Salora tablet 
 
-++ Connection
+![Error message](Error.png)
+
+## Connection
 
 The Salora must be connected directly, that is, not via a hub.
 
